@@ -1,5 +1,4 @@
 # rstdo
-
 simple todo list CLI based app made from rust and powered by txt DB<br>
 
 ### install
